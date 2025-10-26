@@ -69,3 +69,14 @@ QA-Cadastro-Usuario/
 │ └── print_trello.png
 │
 └── 📄 README.md
+
+## 🔗 Links do Projeto
+
+📋 **Plano de Testes:**  
+[👉 Acesse no Google Sheets](https://docs.google.com/spreadsheets/d/1lYP_Q48ovlsMkqh27ti-SLp_1yJzHvgg/edit?usp=drive_link&ouid=108860538402249057489&rtpof=true&sd=true)
+
+🗂️ **Planejamento no Trello:**  
+[👉 Acesse o quadro público no Trello](https://trello.com/b/PamcroH7/qa-cadastro-usuario)
+
+📁 **Evidências:**  
+[👉 Acesse no Google Sheets](https://drive.google.com/drive/folders/1O9mCeeYpmlESNC-7_AoSN6fTyh2BnlVV?usp=drive_link)
