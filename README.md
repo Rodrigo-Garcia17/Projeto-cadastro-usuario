@@ -47,7 +47,7 @@ O **plano de testes** foi documentado em planilha (Google Sheets), contendo:
 - Resultado esperado e obtido  
 - Status e evidências  
 
-🔗 [Acesse o documento completo aqui](https://docs.google.com/spreadsheets/d/1lYP_Q48ovlsMkqh27ti-SLp_1yJzHvgg/edit?usp=drive_link&ouid=108860538402249057489&rtpof=true&sd=true)
+🔗 [Acesse o documento completo aqui](https://docs.google.com/spreadsheets/d/1_gC-ZfSKbWb4RVt-qWux6d9UgbESlD2V/edit?usp=sharing&ouid=108860538402249057489&rtpof=true&sd=true)
 
 ---
 
@@ -73,7 +73,7 @@ QA-Cadastro-Usuario/
 ## 🔗 Links do Projeto
 
 📋 **Plano de Testes:**  
-[👉 Acesse no Google Sheets](https://docs.google.com/spreadsheets/d/1lYP_Q48ovlsMkqh27ti-SLp_1yJzHvgg/edit?usp=drive_link&ouid=108860538402249057489&rtpof=true&sd=true)
+[👉 Acesse no Google Sheets](https://docs.google.com/spreadsheets/d/1_gC-ZfSKbWb4RVt-qWux6d9UgbESlD2V/edit?usp=sharing&ouid=108860538402249057489&rtpof=true&sd=true)
 
 🗂️ **Planejamento no Trello:**  
 [👉 Acesse o quadro público no Trello](https://trello.com/b/PamcroH7/qa-cadastro-usuario)
